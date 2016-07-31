@@ -24,6 +24,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 *.xctimeline
+*.xcworkspacedata
+*.xcscmblueprint
 
 # Carthage
 Carthage
